@@ -21,8 +21,9 @@ variedad1='''Escribe ${0}^{{{1}/{2}}}$ en forma de raíz.
 output=[]
 
 for uno in range(2,10):
-    for dos in range(uno+1,10):
-        for tres in range(dos+1,10):
+    for dos in range(2,10):
+        for tres in range(2,10):
+            if tres==dos: continue
             output.append(variedad1.format(uno, dos, tres) + '\n\n')
             print(r'\begin{multi}[points=1]{Potencias}') #Hay que imprimirla "en crudo"
             print(variedad1.format(uno, dos, tres) + '\n\n')
