@@ -33,7 +33,7 @@ for uno in range(2,10):
 ## Variedad 2: Invertir y simplificar
 
 variedad2=''' ${0}^{{-{1}/{2}}}$ es igual a... 
-\item* $\frac{{1}}{{{0}^{3} }}
+\item* $1/{0}^{3} }}
 \item $\sqrt[{2}]{{{0}^{1}}}$
 \item $-\sqrt[{2}]{{{0}^{1}}}$
 \item Nada de lo anterior
