@@ -44,8 +44,8 @@ for uno in range(2,10):
     for tres in range(2,10):
         dos=tres*tres
         #output.append(variedad1.format(uno, dos, tres) + '\n\n')
-        print(r'\begin{multi}[points=1]{Potencias}') #Hay que imprimirla "en crudo"
-        print(variedad2.format(uno, dos, tres, tres) + '\n\n')
+       # print(r'\begin{multi}[points=1]{Potencias}') #Hay que imprimirla "en crudo"
+       # print(variedad2.format(uno, dos, tres, tres) + '\n\n')
 
 
 ## Variedad 3: Descomponer y extraer
