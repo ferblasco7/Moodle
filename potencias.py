@@ -33,8 +33,8 @@ for uno in range(2,10):
 
 variedad2=''' ${0}^{{-{1}/{2}}}$ es igual a... 
 \item* $1/{0}^{3} $
-\item $\sqrt[{2}]{{{0}^{1}}}$
-\item $-\sqrt[{2}]{{{0}^{1}}}$
+\item $\sqrt[{2}]{{{0}^{{{1}}}}}$
+\item $-\sqrt[{2}]{{{0}^{{{1}}}}}$
 \item Nada de lo anterior
 \end{{multi}}''' 
 
