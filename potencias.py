@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Wed Feb 12 17:49:09 2020
+Created on Nov 2020
+
+Crea variantes a partir de una pregunta tipo. 
+Pensada para usar junto con el paquete moodle de LaTeX, para crear cuestionarios.
 
 @author: fer
 """
